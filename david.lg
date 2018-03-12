@@ -1,0 +1,20 @@
+to david :n
+home
+clean
+left 30
+forward :n
+right 120
+forward :n
+right 120
+forward :n
+penup
+right 150
+forward :n
+pendown
+right 150
+forward :n
+right 120
+forward :n
+right 120
+forward :n
+end
